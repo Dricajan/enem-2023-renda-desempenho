@@ -10,9 +10,10 @@ o desempenho dos estudantes concluintes do ensino médio em 2023.
 
 ## Como reproduzir
 1. Baixe os microdados do ENEM 2023 no site do INEP: (https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem)
-2. Faça upload do arquivo para o Google Drive
-3. Ajuste o caminho do arquivo no notebook para o seu Drive
-4. Abra o notebook no Google Colab pelo link disponível no repositório
+2. Faça upload do arquivo para o seu Google Drive
+3. Ajuste o caminho do arquivo do seu Drive na variável caminho_dados, no notebook
+4. Baixe o arquivo 'mapas.py' no repositório e suba-o para o seu Google Drive no mesmo diretório do arquivo .csv.
+5. Abra o notebook no Google Colab pelo link disponível no repositório
 
 ## Tecnologias utilizadas
 - Python
